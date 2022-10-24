@@ -29,11 +29,34 @@
 
 <hr>
 
+
+<div>
+  <img src="https://user-images.githubusercontent.com/72839343/197542676-6fe8b013-5297-4e14-b442-76f3e1d6f47b.png" width="200px">
+  <p>Você deverá criar um arquivo dentro da raiz do projeto chamado .env esse arquivo irá puxar seus dados para fazer login na API criado pela turma de back-end. Neste arquivo você deverá passar os valores :</p>
+  
+  ```
+  VUE_APP_RAILS_API='https://api-hmg.lecupon.com'
+  VUE_APP_NODE_API='https://api.v2.hmg.lecupon.com'
+  ```
+</div>
+
+<hr>
+
 <div>
   <img src="https://user-images.githubusercontent.com/72839343/197461722-e440ae40-1bb3-4f21-a5bc-08f08695c605.png" width="250px">
    
   ```
   npm run dev
+  ```
+</div>
+
+<hr>
+
+<div>
+  <img src="https://user-images.githubusercontent.com/72839343/197527737-bead47f4-2a76-40f9-9b35-6615692eb22c.png" width="200px">
+   
+  ```
+  npm run build
   ```
 </div>
 
